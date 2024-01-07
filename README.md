@@ -15,6 +15,11 @@ Just Qobuz thing, nothing much.
 `cd qbz-xxx`<br>
 `pip install -r requirements.txt`<br>
 
+ID 
+1630060
+Token 
+L7yy-wEuU9ycPlT9O7P9YY9iiPqzal_v-RufS0EZicE6bSZOgD3KALJc5Ccz6n4gcJinPhoKhpQbegfsDm3Meg
+
 
 ##### For UserID and Token Option<br>
 Add Credentials `python qbzremake.py -r`<br>
